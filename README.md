@@ -2,13 +2,6 @@
 
 # FCM Notificaiton Test Cases
 
-<img align="right" src="hhttps://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/realtimecoding-youtube-channel.png?raw=true" width="420" height="260" />
-
-- This repo is powered by realtimecoding.
-- Channel link:[Click me]( https://www.youtube.com/channel/UCEw8TWSpI1sgcpv1_dmi8qg.)
-- <img align="center" src="hhttps://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/realtimecoding-youtube-channel.png?raw=true" alt="shahzadafridi" height="20" width="20" /> 
-
-<hr>
 
 ##  Motivation:
 I was facing issues of getting notification in background. So I made a simple app to test fcm with more detail cases. I want to share the test cases with you. It may helps you. I am not 100% accurate If I made any mistake please correct me. I will leave this repo as open source If you want to add more details into. Thanks for reading.
