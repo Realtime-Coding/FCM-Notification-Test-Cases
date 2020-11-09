@@ -2,9 +2,18 @@
 
 # FCM Notificaiton Test Cases
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+<img align="right" src="hhttps://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/realtimecoding-youtube-channel.png?raw=true" width="420" height="260" />
 
+- This repo is powered by realtimecoding.
+- Channel link:[Click me]( https://www.youtube.com/channel/UCEw8TWSpI1sgcpv1_dmi8qg.)
+- <img align="center" src="hhttps://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/realtimecoding-youtube-channel.png?raw=true" alt="shahzadafridi" height="20" width="20" /> 
+
+<hr>
+
+##  Motivation:
 I was facing issues of getting notification in background. So I made a simple app to test fcm with more detail cases. I want to share the test cases with you. It may helps you. I am not 100% accurate If I made any mistake please correct me. I will leave this repo as open source If you want to add more details into. Thanks for reading.
+
+<hr>
 
 ## fcm-test-case1:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case1.png?raw=true)
@@ -15,6 +24,8 @@ If the fcm notificaiton has inculdes **data** & **notification** both and the ap
 
 ######  fcm-test-case1-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case1-diagram.PNG?raw=true)
+
+<hr>
 
 ## fcm-test-case2:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case2.png?raw=true)
@@ -31,6 +42,8 @@ Inside **onCreate** of Luncher Activity ->** getInent().getStringExtra("test");*
 ######  fcm-test-case2-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case2-diagram.PNG?raw=true)
 
+<hr>
+
 ## fcm-test-case3:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case3.png?raw=true)
 
@@ -41,6 +54,8 @@ If app is killed then you might not recieve notificaiton. Sometimes It happens w
 ######  fcm-test-case3-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case3-diagram.PNG?raw=true)
 
+<hr>
+
 ## fcm-test-case4:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case4.png?raw=true)
 
@@ -50,6 +65,8 @@ If app is killed then you might not recieve notificaiton. Sometimes It happens w
 
 ######  fcm-test-case4-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case4-diagram.PNG?raw=true)
+
+<hr>
 
 ## fcm-test-case5:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case5.png?raw=true)
@@ -67,6 +84,8 @@ If the app is **killed** you will recieve only notification which is handled by 
 
 ######  fcm-test-case5-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case5-diagram.PNG?raw=true)]
+
+<hr>
 
 ## fcm-test-case6:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case6.png?raw=true)
