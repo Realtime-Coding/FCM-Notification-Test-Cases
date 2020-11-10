@@ -71,9 +71,9 @@ If app is killed then you might not recieve notificaiton. Sometimes It happens w
 
 Now If you remove **notification** payload from request and left only **data** then you will get **data** payload in **onMessageReceived** and **notificaiton** will null If the app is in **background**.
 
-If the app is in **foreground** then you will get both **data** and **notification** payload
+If the app is in **foreground** then you will get only **data** and **notification** will null because we didn't inculde notification payload to fcm request.
 
-If the app is **killed** you will recieve only notification which is handled by FCM itself. You can get data payload values in luncher activity intent once you click on the notification it will redirect to luncher activity.
+If the app is **killed** you will recieve data payload in **onMessageReceived** there you can handle it with cutsom notificaiton to notify user and can get data values to perform your actions.
 
 ######  fcm-test-case5-diagram:
 ![](https://github.com/shahzadafridi/FCM-Notification-Test-Cases/blob/main/fcm-test-case5-diagram.PNG?raw=true)]
